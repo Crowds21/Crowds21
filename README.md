@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-10-06 16:00:45`
+每天自动刷新，最近更新时间：`2021-10-07 16:01:10`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [表格与字词级别标注](https://ld246.com/article/1633505464170/comment/1633508436818#comments)
+
+  > 你说的那种表格应该类似于属性试图吧. 等等吧.这段时间都在修 bug
 * 🗃📝 [Github Profile Readme 美化效果汇总](https://ld246.com/article/1633274473807)
 
   > 语雀版本：https://www.yuque.com/achuan-2/kclygn/dq718n 这是我目前的 Github 首页 [图片] 酷吧，虽然咱代码不会写，首先气势不能输，逼格总是要先装起来的，装着装着，说不定，就会写代码了呢！！！（大误 😄） 0 准备工作 需要新建一个和 Github 用户名相同的仓库 ..
@@ -33,9 +36,6 @@
 * 💬 [能否给标题 Headings 自动编号?](https://ld246.com/article/1630911326624/comment/1632988532149#comments)
 
   > [图片]
-* 💬 [请教如何把本地笔记导出与其他电脑上的笔记合并](https://ld246.com/article/1632959321604/comment/1632961941899#comments)
-
-  > 手动拖拽后记得执行一下重新索引
 
 
 <!--events end -->
