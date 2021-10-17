@@ -8,34 +8,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-10-16 16:00:50`
+每天自动刷新，最近更新时间：`2021-10-17 16:00:49`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
-* 📝 [[功能提议]SiYuan Kernel 自启](https://ld246.com/article/1634367167980)
+* 👍🌙 [赞同了清风明月](https://ld246.com/member/88250/breezemoons/1634400969098)
 
-  > 我参考下面的方法,尝试想要将思源的内核设置为开机自启. [链接] 但是尝试后,发现,好像无法直接启动 SiYuan Kernel.exe 内核.只能通过 SiYuan.exe 才能启动内核 能否在后续支持内核开机自启之类的功能?
-* 🗣 [1.4.2 加粗文本用退格键会暴露 ** 标记](https://ld246.com/article/1634019627654/comment/1634087952911#comments)
+  > 思源笔记 iOS 端已经提交公测审核，一定要通过啊啊啊啊 🙏 [图片]
+* 🗣 [Windows 下实现 SiYuan Kernel 自启](https://ld246.com/article/1634367167980/comment/1634394733404#comments)
 
-  > 解析的问题,是不是粗体,需要一个字符一个字符的去解析,去识别有没有 *,出现这种属于算法的问题
-* 👍💬 [想问问局部关系图有什么用？](https://ld246.com/article/1634030152634/comment/1634041506435#comments)
+  > 嗷嗷嗷
+* 💬 [Windows 下实现 SiYuan Kernel 自启](https://ld246.com/article/1634367167980/comment/1634394634084#comments)
 
-  > 兄弟，这玩意没用，忘记它吧。 一语道破，目前唯一的作用就是时不时看下可以缓解生活工作带来的压力，获得一定内心上的满足感 😂
-* 💬 [使用体验细节建议](https://ld246.com/article/1634024771575/comment/1634044173351#comments)
+  > 成功了,任务管理器里面,他显示在了 Terminal 里面.导致我一直没有找到,以为没有成功启动.😋 [图片] 但是我的 app.log 中的时间都是错的,下面是我刚刚打开思源,然后又将其关闭后显示的日志. 时间记录的是下午两点. 2021-10-16 14:22:16 booted kernel process 2 ..
+* 💬 [1.4.2 列表项子项嵌套超级快 列表符号位置错误](https://ld246.com/article/1634351752094/comment/1634393840805#comments)
 
-  > 我也给 D 大提个建议. 是不是可以让每个模板都写一个 README,说明一下每个模板的作用,多一些提交的要求.然后将这些 README 也放置在帮助文档中呢?这样子会对新手更友好一些. 也更容易实现一点
-* 💬 [1.4.2 加粗文本用退格键会暴露 ** 标记](https://ld246.com/article/1634019627654/comment/1634024673396#comments)
+  > V 姐, 无序列表折叠后,会多显示一丢丢. 好像只有最外层级的无序列表会这样. [图片] [图片]
+* 💬 [Windows 下实现 SiYuan Kernel 自启](https://ld246.com/article/1634367167980/comment/1634393369634#comments)
 
-  > 你的 ** 前面有空格,就会这个样子
-* 💬 [属性无法被修改](https://ld246.com/article/1633959938788/comment/1634004403179#comments)
+  > D 大,为什么我这儿没有任何反应.我是在 Windows 下执行的以下命令. &gt; E:&gt;SiYuanNote&gt;resources&gt;kernel &gt; .\'SiYuan Kernel.exe' --workspace='E:\SiYuan2.0Data\' --ssl=true --resi ..
+* 💬 [Windows 下实现 SiYuan Kernel 自启](https://ld246.com/article/1634367167980/comment/1634392848841#comments)
 
-  > 属性的问题我之后再试试. API 的话那我就先用 /api/filetree/createDocWithMd
-* 💬 [思源笔记如何像 notion 一样自动生成 toc?](https://ld246.com/article/1633865732798/comment/1633998727747#comments)
+  > --workspace 用于指定工作空间文件夹路径，不指定时的默认值是 ~/Documents/SiYuan/。 --wd 内核工作目录路径，不指定时按内核可执行文件入口自动获取。 --servePath 用于指定伺服路径（host:port），默认值为 window.location.hostname+':6806' ..
+* 🗣 [Windows 下实现 SiYuan Kernel 自启](https://ld246.com/article/1634367167980/comment/1634384576855#comments)
 
-  > 你想要的 TOC 是文档的大纲,还是能够显示子文档? 前者的话思源目前只能用大纲面板 如果是后者社区搜索一些 目录相关的帖子,有很多模板.
-* 💬 [建议思源笔记增加字词句批注功能](https://ld246.com/article/1633958441344/comment/1633963874739#comments)
+  > 哦哦,明白了!
+* 💬 [思源笔记可以支持文档内写评论吗？](https://ld246.com/article/1634375805439/comment/1634378041808#comments)
 
-  > 我一开始也担心第一条。但如果你不会在这个文档底下编写其他子文档，这么做能省很多很多事。而且既然你做的是语言标注，大多情况下可能也不会什么污染反链的问题。虽然有很多子文档，但是你不把这个文档当文件夹打开的话就没啥影响，更多的是心理上的负担。 第二个过程确实麻烦了点。现阶段也只能是这样了。
+  > 就像批注吧,这个功能一直有被讨论. 但是 D 大认为优先级不够高.现在主要任务是完善已有的功能,外加修 BUG. 可能还得等一等
 
 
 <!--events end -->
