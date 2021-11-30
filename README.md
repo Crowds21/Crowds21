@@ -8,34 +8,34 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-11-29 16:00:52`
+每天自动刷新，最近更新时间：`2021-11-30 16:00:56`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [快捷键无法把文本块转换任务列表](https://ld246.com/article/1638154822024/comment/1638193946318#comments)
+
+  > 好的.
+* 🗃📝 [url2cmd: 一个可以用 URL 协议运行命令的小工具 (不定时更新用法)](https://ld246.com/article/1638107847158)
+
+  > [图片] url-run-command 使用 URL 协议运行命令 项目地址: Zuoqiu-Yingyi/url-run-command) 用法 若还有其他好用的方法欢迎在评论区留言呀(*^▽^*) 使用视频播放器 Potplayer 打开本地视频并跳转到指定时间点 runcmd://PotPlayerMini64 ..
+* 💗📝 [URL Scheme: 思源笔记一款利用挂件 Web 服务重定向至笔记内链接的挂件 (专治各种不支持 URL Scheme 的软件)](https://ld246.com/article/1638102676516)
+
+  > URL Scheme 挂件 项目地址: Zuoqiu-Yingyi/widget-url-scheme 本项目从 DiamondYuan/302 MIT License 分叉, 感谢原作者 DiamondYuan ❤️ 一个可将 URL Scheme 转换为 HTTP 302 重定向地址的挂件 相关参考文章 在任意网站 ..
+* 🗃📝 [URL Scheme: 思源笔记一款利用挂件 Web 服务重定向至笔记内链接的挂件 (专治各种不支持 URL Scheme 的软件)](https://ld246.com/article/1638102676516)
+
+  > URL Scheme 挂件 项目地址: Zuoqiu-Yingyi/widget-url-scheme 本项目从 DiamondYuan/302 MIT License 分叉, 感谢原作者 DiamondYuan ❤️ 一个可将 URL Scheme 转换为 HTTP 302 重定向地址的挂件 相关参考文章 在任意网站 ..
+* 💬 [URL Scheme: 思源笔记一款利用挂件 Web 服务重定向至笔记内链接的挂件 (专治各种不支持 URL Scheme 的软件)](https://ld246.com/article/1638102676516/comment/1638189550270#comments)
+
+  > 卧槽牛逼! 刚刚还在想飞书文档超链接前面都会默认给插一个 http 怎么办.
+* 💬 [[提问] 各个数据表格的优劣](https://ld246.com/article/1638179178806/comment/1638184267140#comments)
+
+  > 飞书各方面挺强大的,但是看上去就像个企业版微信 😂
+* 📝 [[提问] 各个数据表格的优劣](https://ld246.com/article/1638179178806)
+
+  > 飞书文档,语雀,Seatable. 数据文档用哪一个比较好? 本来也打算用语雀的,但看了一圈他的 API 似乎比较简陋,不像飞书各种 API 非常齐全. 各位目前在用哪个,推荐理由是什么呢. 2021 年 11 月 30 日更新 比较成果 语雀 API 主要是针对文档的展示 [链接]. 不符合我的需求 数据表格不能多表 ..
 * 📝 [快捷键无法把文本块转换任务列表](https://ld246.com/article/1638154822024)
 
   > 我记得以前是可以直接通过 Ctrl l 直接把光标所在的块转换为任务列表的.现在好像不支持了,变成了在下一行插入. 不知道是因为何种原因改变的.手动转换体验上变扭了不少.
-* 🗃📝 [云原生时代，Java 的危与机](https://ld246.com/article/1637799771455)
-
-  > Java 诞生距今已有 25 年，但它仍然长期占据着“天下第一”编程语言的宝座。只是其统治地位并非坚不可摧，反倒可以说是危机四伏。云原生时代，Java 技术体系的许多前提假设都受到了挑战，目前已经有可预见的、足以威胁动摇其根基的潜在可能性正在酝酿。同时，像 Golang、Rust 这样的新生语言，以及 C、C++、C# ..
-* 🗃📝 [如何优雅地记录操作日志？](https://ld246.com/article/1637544791186)
-
-  > 如何优雅地记录操作日志？ 转载文章链接 22855 字 46 分钟阅读 操作日志几乎存在于每个系统中，而这些系统都有记录操作日志的一套 API。操作日志和系统日志不一样，操作日志必须要做到简单易懂。所以如何让操作日志不和业务逻辑耦合，如何让操作日志的内容易于理解，让操作日志的接入更加简单？上面这些都是本文要回答的问题， ..
-* 🗃📝 [社区自动签到服务](https://ld246.com/article/1527409780708)
-
-  > 黑客派自动签到 服务不会保存密码，不用担心密码泄露，每天 8 点多登录签到，同时领取昨日的丰厚奖励！ 最后记录一点点日志，让你能够查看过去发生过什么。 如何启动 1. 准备 JDK 1.8 环境 你的用户名和密码 clone 代码到本地 git clone https://github.com/xjtushilei/q ..
-* 🗃📝 [面试题之数据库篇](https://ld246.com/article/1636883579066)
-
-  > 渐进式问题 有两个表：学生 student（id,name,age,class_id）和班级 class(id,name)。 口述查询语句：查询人数大于 10 的班级，及其人数 select class.id, count(*) from class join student on class.id = student ..
-* 💬 [在 1.5.2 这个版本中，经常搜索不到要搜的内容](https://ld246.com/article/1636939446532/comment/1636941698141#comments)
-
-  > 帖子是可以修改的,需要编辑在原帖上修改就好了. [图片]
-* 🌙 [发布了清风明月](https://ld246.com/member/crowds21/breezemoons/1636887979305)
-
-  > 鼻炎都快成心理阴影了,今年爷迅速痊愈了. 好耶.
-* 🌙 [发布了清风明月](https://ld246.com/member/crowds21/breezemoons/1636858631840)
-
-  > 感觉已经好的差不多了,买的第二批生理盐水还没到.还需要坚持一段时间防止反复.
 
 
 <!--events end -->
