@@ -8,10 +8,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-12-01 16:00:32`
+每天自动刷新，最近更新时间：`2021-12-02 16:00:48`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* ⭐️👨‍💻 [96XL](https://ld246.com/member/96XL)
+
+  > 
+* 💬 [[提问] 各个数据表格的优劣](https://ld246.com/article/1638179178806/comment/1638367828188#comments)
+
+  > 毕竟是国外的,我个人还是怕不保险.
 * 💗💬 [[提问] 各个数据表格的优劣](https://ld246.com/article/1638179178806/comment/1638269317106#comments)
 
   > 推荐一款可本地化/私有化部署开源的替代品, 不过我也才刚刚开始使用, 没法提一些建议 😂 [链接]
@@ -30,12 +36,6 @@
 * 🗃📝 [URL Scheme: 思源笔记一款利用挂件 Web 服务重定向至笔记内链接的挂件 (专治各种不支持 URL Scheme 的软件)](https://ld246.com/article/1638102676516)
 
   > URL Scheme 挂件 项目地址: Zuoqiu-Yingyi/widget-url-scheme 本项目从 DiamondYuan/302 MIT License 分叉, 感谢原作者 DiamondYuan ❤️ 一个可将 URL Scheme 转换为 HTTP 302 重定向地址的挂件 相关参考文章 在任意网站 ..
-* 💬 [URL Scheme: 思源笔记一款利用挂件 Web 服务重定向至笔记内链接的挂件 (专治各种不支持 URL Scheme 的软件)](https://ld246.com/article/1638102676516/comment/1638189550270#comments)
-
-  > 卧槽牛逼! 刚刚还在想飞书文档超链接前面都会默认给插一个 http 怎么办.
-* 💬 [[提问] 各个数据表格的优劣](https://ld246.com/article/1638179178806/comment/1638184267140#comments)
-
-  > 飞书各方面挺强大的,但是看上去就像个企业版微信 😂
 
 
 <!--events end -->
