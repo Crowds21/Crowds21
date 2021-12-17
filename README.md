@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-12-16 16:01:32`
+每天自动刷新，最近更新时间：`2021-12-17 16:00:50`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [思源和 anki 或者 supermemo 的联动？](https://ld246.com/article/1639407415336/comment/1639558514817#comments)
+
+  > 我没有系统用过 supermemo, 这方面不太了解
 * 💬 [思源和 anki 或者 supermemo 的联动？](https://ld246.com/article/1639407415336/comment/1639459663467#comments)
 
   > 不需要会 python. 最难的部分是把环境搭好.能把这个工具下下来,然后能运行. 使用的话其实很简单的.
@@ -33,9 +36,6 @@
 * 💬 [思源笔记的授权码能否分级别设置](https://ld246.com/article/1639210809117/comment/1639223233148#comments)
 
   > 内网分享的话可以用 oceanpress 导出成 html,然后直接塞到你们内网里面的博客或知识库里面.
-* 💬 [关于 sql 查询](https://ld246.com/article/1639204617350/comment/1639223118558#comments)
-
-  > 思源只支持 select * . 通过 API 查询的话我没有试过, 但模板和嵌入块里面只能用 select *.
 
 
 <!--events end -->
