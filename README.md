@@ -8,10 +8,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-12-19 16:00:46`
+每天自动刷新，最近更新时间：`2021-12-20 16:00:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [SQL 嵌入引述块时，建议调整展示粒度](https://ld246.com/article/1639838751629/comment/1639922880746#comments)
+
+  > 因为这个真的痛苦了好长时间了.😂 还有 D 大,能不能想个文档内实现目录的办法. 虽然现在有大纲. 但是配合导出为其它格式,尤其是 pdf 和 html,或者使用 oceanpress 生成 html 的时候,能有一个目录会更方便. @88250
+* 💬 [请问代码块渲染 C++ 的话就选 cpp 吗？](https://ld246.com/article/1639922075799/comment/1639922680083#comments)
+
+  > 是的,你可以百度一下 CPP 和 csharp
 * 🗣 [思源和 anki 或者 supermemo 的联动？](https://ld246.com/article/1639407415336/comment/1639558514817#comments)
 
   > 我没有系统用过 supermemo, 这方面不太了解
@@ -30,12 +36,6 @@
 * 🗣 [想用思源做任务管理](https://ld246.com/article/1639214192246/comment/1639222773324#comments)
 
   > 用这种 iframe 嵌入,我个人体验下来,感觉比硬用思源做要舒服的多
-* 🗣 [思源笔记的授权码能否分级别设置](https://ld246.com/article/1639210809117/comment/1639223233148#comments)
-
-  > 虽然这么弄也还挺麻烦的.
-* 💬 [思源笔记的授权码能否分级别设置](https://ld246.com/article/1639210809117/comment/1639223233148#comments)
-
-  > 内网分享的话可以用 oceanpress 导出成 html,然后直接塞到你们内网里面的博客或知识库里面.
 
 
 <!--events end -->
