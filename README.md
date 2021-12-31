@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2021-12-30 16:01:27`
+每天自动刷新，最近更新时间：`2021-12-31 16:00:57`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🌙 [发布了清风明月](https://ld246.com/member/crowds21/breezemoons/1640936472211)
+
+  > 重构代码好痛苦
 * 💬 [关于 table 的建议](https://ld246.com/article/1640520096229/comment/1640521389069#comments)
 
   > 有计划支持 html 中的 Table 元素了.但是啥时候出还不能确定.
@@ -33,9 +36,6 @@
 * 💬 [SQL 嵌入引述块时，建议调整展示粒度](https://ld246.com/article/1639838751629/comment/1639922880746#comments)
 
   > 因为这个真的痛苦了好长时间了.😂 还有 D 大,能不能想个文档内实现目录的办法. 虽然现在有大纲. 但是配合导出为其它格式,尤其是 pdf 和 html,或者使用 oceanpress 生成 html 的时候,能有一个目录会更方便. @88250
-* 💬 [请问代码块渲染 C++ 的话就选 cpp 吗？](https://ld246.com/article/1639922075799/comment/1639922680083#comments)
-
-  > 是的,你可以百度一下 CPP 和 csharp
 
 
 <!--events end -->
