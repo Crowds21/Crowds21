@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-01-12 16:00:41`
+每天自动刷新，最近更新时间：`2022-01-13 16:05:40`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [1.7.0 插入多个块 api 的返回值问题](https://ld246.com/article/1641985568031/comment/1641993230509#comments)
+
+  > D 大是否会考虑支持块内软换行呢?
 * 💬 [希望有启动默认打开一个页面的选项](https://ld246.com/article/1641953751173/comment/1641956312734#comments)
 
   > 我也觉得可以设置默认打开页面会很好
@@ -33,9 +36,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/crowds21/breezemoons/1640936472211)
 
   > 重构代码好痛苦
-* 💬 [关于 table 的建议](https://ld246.com/article/1640520096229/comment/1640521389069#comments)
-
-  > 有计划支持 html 中的 Table 元素了.但是啥时候出还不能确定.
 
 
 <!--events end -->
