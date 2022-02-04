@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-03 16:01:37`
+每天自动刷新，最近更新时间：`2022-02-04 16:01:42`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗃📝 [关于思源、Supermemo、BookxNote 联动的尝试](https://ld246.com/article/1641054269232)
+
+  > 本次分享三个 Quicker 动作。 第一个：摘录 + 补充信息 - 动作信息 - Quicker (getquicker.net) 在 BookxNote 摘录阅读内容进 Supermemo 前设置好书名、作者及思源中关于本书的块超链。在 Supermemo 渐进阅读的过程中可以跳转回 BookxNote 查看上下文 ..
 * 💬 [思源中看 PDF 怎么调背景色为白色？](https://ld246.com/article/1643508154869/comment/1643790921439#comments)
 
   > [链接] 自用主题,设置了 pdf 背景,可以参考一下. 应该是这个字段,好久前了,记不清楚了 .pdf__outer{ background: #fcfcfc; }
@@ -33,9 +36,6 @@
 * 💗📝 [BearLight Theme / BearDark Theme for SiYuan !](https://ld246.com/article/1642257896117)
 
   > 简约是复杂的最终形式！ BearLight Theme / BearDark Theme for SiYuan ! -------Design By 麦麦[爱心] BearLight 主题效果展示 [图片] [图片] [图片] [图片] BearDark 主题效果展示 [图片] [图片] [图片] [图片]
-* 👍📝 [[思源笔记主题同步] 分享一个同步自定义主题的方案](https://ld246.com/article/1640660343654)
-
-  > 缘由 由于思源笔记的主题放在 conf\appearance\themes 目录中, 因此如果更改了主题的 theme.css 或 custom.css 在使用官方同步服务时无法同步到其他设备, 这在不方便访问文件系统的终端(例如移动端, Docker 服务端)不易应用自定义主题, 因此我想出了用过 CSS 的 @im ..
 
 
 <!--events end -->
