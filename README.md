@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-10 16:00:43`
+每天自动刷新，最近更新时间：`2022-02-11 16:00:35`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [[思源笔记挂件] Query: 一个将思源笔记数据库查询结果以表格样式渲染的挂件](https://ld246.com/article/1644488199963/comment/1644503426080#comments)
+
+  > 牛逼[图片]
 * 📝 [[求助 /Anki] 数学公式会强制独占一行](https://ld246.com/article/1644424703159)
 
   > 如题,我在 Anki 里面使用 Mathjax 的时候,发现公式默认会自己独占一行. 观感会很差. 比如: We denote h_\theta(x)_k as being a hypothesis that results in the k-th output. anki 里面会变成 We denote h_\the ..
@@ -33,9 +36,6 @@
 * 💬 [仿 effie 主题](https://ld246.com/article/1641534135678/comment/1642603264676#comments)
 
   > 近期可能不会,有不少地方还有瑕疵,不同场景下使用感受可能不是特别好,我自己也就是写长文的时候自己用用.后续比较完善了的话我会上传. conf 目录下有一个 conf.json ,然后照着我下面加进去就好了. 'darkThemes': [ 'midnight', 'effie-dark', 'Cliff Dark' ] ..
-* 💬 [为什么要移除中英文自动加空格啊？](https://ld246.com/article/1642254953721/comment/1642301168918#comments)
-
-  > 搜狗输入法自带这个功能. 你可以看一下你用的输入法有没有自带这个功能.
 
 
 <!--events end -->
