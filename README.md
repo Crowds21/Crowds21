@@ -8,14 +8,17 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-12 16:00:54`
+每天自动刷新，最近更新时间：`2022-02-13 16:00:44`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [[已解决 /Anki] 数学公式会强制独占一行](https://ld246.com/article/1644424703159/comment/1644673340589#comments)
+
+  > 目前的办法. 通过 logseq 中自带的卡片功能. 虽然我不太喜欢 logseq 组织文档的方式,但是就制卡这一点来说,真的香.[图片]
 * 💬 [[思源笔记挂件] Query: 一个将思源笔记数据库查询结果以表格样式渲染的挂件](https://ld246.com/article/1644488199963/comment/1644503426080#comments)
 
   > 牛逼[图片]
-* 📝 [[求助 /Anki] 数学公式会强制独占一行](https://ld246.com/article/1644424703159)
+* 📝 [[已解决 /Anki] 数学公式会强制独占一行](https://ld246.com/article/1644424703159)
 
   > 如题,我在 Anki 里面使用 Mathjax 的时候,发现公式默认会自己独占一行. 观感会很差. 比如: We denote h_\theta(x)_k as being a hypothesis that results in the k-th output. anki 里面会变成 We denote h_\the ..
 * 🗃📝 [关于思源、Supermemo、BookxNote 联动的尝试](https://ld246.com/article/1641054269232)
@@ -33,9 +36,6 @@
 * 💬 [不限层级目录模板](https://ld246.com/article/1632302122435/comment/1642603484817#comments)
 
   > 你比较急的话,就试一下 order by path 后面加一个 ,content 可不可以. 我也不太确定哈.我之后抽空再看看. .action{$block:= (queryBlocks 'SELECT * FROM blocks WHERE id !='?'AND type= 'd' AND path like ' ..
-* 💬 [仿 effie 主题](https://ld246.com/article/1641534135678/comment/1642603264676#comments)
-
-  > 近期可能不会,有不少地方还有瑕疵,不同场景下使用感受可能不是特别好,我自己也就是写长文的时候自己用用.后续比较完善了的话我会上传. conf 目录下有一个 conf.json ,然后照着我下面加进去就好了. 'darkThemes': [ 'midnight', 'effie-dark', 'Cliff Dark' ] ..
 
 
 <!--events end -->
