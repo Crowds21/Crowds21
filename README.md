@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-22 16:00:44`
+每天自动刷新，最近更新时间：`2022-02-23 16:00:25`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [关于模板功能的一些建议](https://ld246.com/article/1626178395977/comment/1645582975088#comments)
+
+  > 啊,才看到有这么多回复. D 大感觉最近链滴有些卡顿,是我的错觉吗?😂
 * 💬 [思源 1.8.2 MAC M1 版无法启动？](https://ld246.com/article/1645328996386/comment/1645338517708#comments)
 
   > 活动监视器里面搜 Kernel ,然后把 siyuan kernel 直接强制关掉.
@@ -33,9 +36,6 @@
 * 🗃📝 [关于思源、Supermemo、BookxNote 联动的尝试](https://ld246.com/article/1641054269232)
 
   > 本次分享三个 Quicker 动作。 第一个：摘录 + 补充信息 - 动作信息 - Quicker (getquicker.net) 在 BookxNote 摘录阅读内容进 Supermemo 前设置好书名、作者及思源中关于本书的块超链。在 Supermemo 渐进阅读的过程中可以跳转回 BookxNote 查看上下文 ..
-* 💬 [思源中看 PDF 怎么调背景色为白色？](https://ld246.com/article/1643508154869/comment/1643790921439#comments)
-
-  > [链接] 自用主题,设置了 pdf 背景,可以参考一下. 应该是这个字段,好久前了,记不清楚了 .pdf__outer{ background: #fcfcfc; }
 
 
 <!--events end -->
