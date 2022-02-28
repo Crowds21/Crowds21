@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2022-02-27 16:00:55`
+每天自动刷新，最近更新时间：`2022-02-28 16:00:43`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [思源笔记主题 Knowledge Brain 大更新](https://ld246.com/article/1645888085089/comment/1646032663286#comments)
+
+  > 谢谢.这个是我自己删的,主要是没有时间维护.
 * 💬 [关于模板功能的一些建议](https://ld246.com/article/1626178395977/comment/1645582975088#comments)
 
   > 啊,才看到有这么多回复. D 大感觉最近链滴有些卡顿,是我的错觉吗?😂
@@ -33,9 +36,6 @@
 * 📝 [[已解决 /Anki] 数学公式会强制独占一行](https://ld246.com/article/1644424703159)
 
   > 如题,我在 Anki 里面使用 Mathjax 的时候,发现公式默认会自己独占一行. 观感会很差. 比如: We denote h_\theta(x)_k as being a hypothesis that results in the k-th output. anki 里面会变成 We denote h_\the ..
-* 🗃📝 [关于思源、Supermemo、BookxNote 联动的尝试](https://ld246.com/article/1641054269232)
-
-  > 本次分享三个 Quicker 动作。 第一个：摘录 + 补充信息 - 动作信息 - Quicker (getquicker.net) 在 BookxNote 摘录阅读内容进 Supermemo 前设置好书名、作者及思源中关于本书的块超链。在 Supermemo 渐进阅读的过程中可以跳转回 BookxNote 查看上下文 ..
 
 
 <!--events end -->
