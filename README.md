@@ -8,10 +8,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-18 16:00:44`
+每天自动刷新，最近更新时间：`2023-11-19 16:00:50`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💬 [mybatis-spring-starter 配置](https://ld246.com/article/1700361290779/comment/1700361363919#comments)
+
+  > 共享一篇帖子测试一下,好像没办法自动分类? 而且把双链里面的引用的文档直接全部拉过来了 😳
+* 📝 [mybatis-spring-starter 配置](https://ld246.com/article/1700361290779)
+
+  > 数据源配置 首先需要安装数据库驱动  mysql mysql-connector-java ${mysql.version}  然后再 application.yml 文件中配置数据源. 如果没有安装数据库驱动,那么 Intellij 在 driver-class-name 这一行会有报错提示. # data sour ..
 * 💬 [SiYuan 模板基础教程](https://ld246.com/article/1627298479208/comment/1686155638456#comments)
 
   > 抱歉. 很久没有研究 siyuan 的模板了,因为我现在做的不太需要这个,以前我记得是不可以的,现在不太清楚诶 😂 .
@@ -30,12 +36,6 @@
 * 💬 [希望取消闪卡的卡包，因为文档树就是天然的卡包](https://ld246.com/article/1673512327205/comment/1673561425168#comments)
 
   > 我感觉 logseq 那种卡片灵活度是最大的, 通过[[card]] 标签, 你是自己重新做卡片也好,还是直接在原文的基础上利用也好,灵活度比较大. 并且能够通过所在的文档或者通过大纲父级指定的标签来'自动归档', 两种用户的习惯都能满足. 而且只能在块标上选中略微有些繁琐. 多个卡片每次都得手动选中块标,然后再去选择 ..
-* 🗣 [你是如何在 siyuan 中做 "大纲型" 笔记的?](https://ld246.com/article/1663579250394/comment/1663588839142#comments)
-
-  > 我之前在无序列表里面用嵌套也会经常遇见 bug,不知道现在咋样了.
-* 💬 [你是如何在 siyuan 中做 "大纲型" 笔记的?](https://ld246.com/article/1663579250394/comment/1663662465634#comments)
-
-  > 我之前用 siyuan 的无序列表,调整缩进经常会出 bug,比如会导致后续节点无法输入,需要重新手动删除后重新输入. 都不是什么大问题,但是每次都需要手动弄,非常麻烦.
 
 
 <!--events end -->
