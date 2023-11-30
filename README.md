@@ -8,10 +8,13 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，最近更新时间：`2023-11-28 16:00:57`
+每天自动刷新，最近更新时间：`2023-11-30 16:00:37`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 🗣 [开源插件 memos 可以兼容思源笔记了，官方还没采纳···](https://ld246.com/article/1696410418244/comment/1698135912735#comments)
+
+  > 老哥你是啥设备. 我自己部署后想在 ios 上使用,一直提示 ssl 错误. 难倒 ios 上自己部署使用还需要整一个 ssl 证书吗? 不太懂,没折腾过.
 * 💬 [一打开软件就卡死，版本：v2.10.6](https://ld246.com/article/1700548414564/comment/1700571986208#comments)
 
   > 我也遇到这个问题了. 然后后台强制关掉重新启动之后就好了. 目前没有再次遇到过. 这是我用到的插件. 楼主看看有重复的吗. 说不定其他人也有这个问题,可以缩小一下范围. [图片]
@@ -33,9 +36,6 @@
 * 📝 [mybatis-spring-starter 配置](https://ld246.com/article/1700361290779)
 
   > 数据源配置 首先需要安装数据库驱动  mysql mysql-connector-java ${mysql.version}  然后再 application.yml 文件中配置数据源. 如果没有安装数据库驱动,那么 Intellij 在 driver-class-name 这一行会有报错提示. # data sour ..
-* 💬 [SiYuan 模板基础教程](https://ld246.com/article/1627298479208/comment/1686155638456#comments)
-
-  > 抱歉. 很久没有研究 siyuan 的模板了,因为我现在做的不太需要这个,以前我记得是不可以的,现在不太清楚诶 😂 .
 
 
 <!--events end -->
