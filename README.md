@@ -3,7 +3,7 @@
 <a title="Hits" target="_blank" href="https://github.com/Crowds21/Crowds21"><img src="https://hits.b3log.org/crowds21/crowds21.svg"></a>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=crowds21&line_height=20&theme=tokyonight&show_icons=true)](https://github.com/crowds21)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crowds21&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crowds21&langs_count=6&theme=tokyonight&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 <!--events start -->
 
 ### 我在链滴的近期动态
